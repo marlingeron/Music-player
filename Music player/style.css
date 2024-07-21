@@ -185,4 +185,9 @@ i.fa-step-backward{
 main
 ///
 ....
-ger
+gerbody {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
